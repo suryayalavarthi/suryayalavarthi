@@ -2,8 +2,9 @@
 
 
 
-align="center">
-![giphy](https://github.com/suryayalavarthi/suryayalavarthi/assets/81607475/bb8276e8-55c8-4107-85fa-03e807b2b9f1)>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
 
 </br>
