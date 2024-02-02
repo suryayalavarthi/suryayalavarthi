@@ -1,7 +1,7 @@
 # Bonjour 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV6NjlrM3djNmYzbngyenlwcjc1b2FvdGdvMm53Y2dvZTAzdmxvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ju7l5y9osyymQ/giphy.gif">
 </div>
 
 </br>
