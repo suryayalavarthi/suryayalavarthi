@@ -1,4 +1,4 @@
-# నమస్తే 👋
+### నమస్తే 🙏🏻
 
 
 
@@ -65,7 +65,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/pawan-kalyan-pk.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/amrutham-amrutham-dvitheeyam.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
