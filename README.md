@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/giphy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/giphy%20(2).gif">
 </div>
 
 
