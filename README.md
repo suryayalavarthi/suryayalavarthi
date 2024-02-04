@@ -80,10 +80,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 <a href="https://www.reddit.com/user/Specific_Caramel_133">
-  <img align="left" alt=" Reddit" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter%403x.png" />
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter%402x.png" />
 </a>
 <a href="https://instagram.com/surya._.yalavarthi">
-  <img align="left" alt="Steam" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%403x.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%402x.png" />
 </a>
  </p>
  
