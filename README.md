@@ -50,7 +50,7 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/mac%403x.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="edge" width="150" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="edge" width="130" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
