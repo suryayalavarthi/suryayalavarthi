@@ -20,7 +20,7 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Data Visualization 
 
 ### - Hobbies : 
 - ✨ Gaming Addict
