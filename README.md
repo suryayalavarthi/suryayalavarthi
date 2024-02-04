@@ -40,10 +40,10 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="50" hight="50">
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="50" hight="50">
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="java"  width="50" hight="50">
 <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" width="50" hight="50">
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="JS" width="50" hight="50">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="hadoop" width="50" hight="50">
 <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="datascience" width="50" hight="50">
 </br>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" hight="50">
