@@ -14,13 +14,10 @@
 
 # About ME 💬 :
 
-### - I'm 21 years  old Machine Learning & Data Science Enthusiast from India.
+### - I'm 23 years  old Machine Learning & Data Science Enthusiast from USA.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/brahmi-adhurs.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Data Visualization 
 
 ### - Hobbies : 
 - ✨ Gaming Addict
