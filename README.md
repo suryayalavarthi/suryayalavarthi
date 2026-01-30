@@ -1,99 +1,63 @@
-# నమస్తే 🙏🏻:
+# 👋 Hi, I'm Surya Vardhan Yalavarthi
 
+### **Computer Science @ University of Cincinnati | Aspiring ML Engineer & Data Scientist**
 
+I am a technical problem-solver who enjoys building efficient, scalable AI solutions. My specialty lies in **Data Engineering** and **Applied Machine Learning**, particularly in optimizing models to perform under strict resource constraints.
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/pawan-kalyan-pk.gif">
-</div>
+---
 
+## 🚀 Featured Project: The 8GB Challenge
+**[Biometric Weight Estimation via Facial Adiposity](https://github.com/suryayalavarthi/biometric-weight-estimation)**
+* **The Problem:** Estimating body weight from 70,000+ images (7GB dataset) using only **8GB of RAM**.
+* **The Solution:** Engineered a streaming extraction pipeline that achieved an **813:1 data compression ratio**.
+* **The Result:** Surpassed the published research baseline by **3.04%** (13.09kg MAE) and deployed a real-time Streamlit dashboard.
+* **Tech Stack:** `Python`, `XGBoost`, `SHAP`, `OpenCV`, `Streamlit`.
 
-</br>
-</br>
-</br>
+---
 
+## 🛠️ Technical Toolkit
 
-# About ME 💬 :
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), SQL, Java, C++, JavaScript |
+| **AI / Machine Learning** | XGBoost, TensorFlow, PyTorch, Scikit-Learn, MediaPipe |
+| **Explainable AI (XAI)** | SHAP (SHapley Additive exPlanations) |
+| **Cloud & DevOps** | Google Cloud (GCP), Microsoft Azure (AZ-900), Docker, Git |
+| **Data Visualization** | Streamlit, Matplotlib, Seaborn, Tableau |
 
-### - I'm 23 years  old Machine Learning & Data Science Enthusiast from USA.
+---
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/brahmi-adhurs.gif">
+## 🎓 Education & Certifications
+* **B.S. in Computer Science** | University of Cincinnati (Expected April 2026)
+* **TensorFlow Developer Certificate** | Google
+* **Microsoft Certified:** Azure Fundamentals (AZ-900)
+* **Oracle Cloud Infrastructure** Foundations Associate
 
+---
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Movies
-- ✨ Technology Enthusiast
-- ✨ Professional at Sleeping 
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react%403x.png" alt="react" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/nodejs_larger%403x.png" alt="node_js" width="140" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/devices/mac%403x.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" alt="edge" width="130" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+## 📈 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&theme=radical" alt="Surya's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
-</br>
-</br>
-</br>
 
+---
 
+## 🧪 Currently Exploring
+* **Edge AI:** Optimizing deep learning models for low-power IoT devices.
+* **Large Language Models:** Implementing local RAG (Retrieval-Augmented Generation) pipelines using Ollama.
+* **Quantitative Analysis:** Applying ML models to financial datasets and predictive analytics.
 
-# Contact Me 🗣️ :
+---
 
-<p>
- </br>
+## 📫 Let's Connect!
+I am actively seeking **Summer/Fall 2026 Internships** in Data Science and Machine Learning Engineering.
 
+* **LinkedIn:** [linkedin.com/in/surya-yalavarthi](https://www.linkedin.com/in/surya-yalavarthi)
+* **Email:** [Suryavardhan15@gmail.com](mailto:Suryavardhan15@gmail.com)
+* **Location:** Cincinnati, OH
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/suryayalavarthi/suryayalavarthi/blob/main/amrutham-amrutham-dvitheeyam.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:suryavardhan15@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/surya-vardhan-yalavarthi-72a984220/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://twitter.com/Na_Peru_Surya">
-  <img align="left" alt=" Twitter" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter%402x.png" />
-</a>
-<a href="https://instagram.com/surya._.yalavarthi">
-  <img align="left" alt="Insta" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram%402x.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-
-*************
+---
+<p align="center">
+  "Turning constraints into engineering advantages."
+</p>
