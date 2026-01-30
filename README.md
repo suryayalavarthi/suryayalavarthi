@@ -1,65 +1,58 @@
-# 👋 Hi, I'm Surya Vardhan Yalavarthi
+<div align="center">
+  <h1>Constraint‑Ready Data Science. Decision‑Grade ML.</h1>
+  <p>Surya Vardhan Yalavarthi • Data Scientist</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=600&center=true&vCenter=true&width=620&lines=Python+%7C+SQL+%7C+XGBoost+%7C+PyTorch;ETL+Pipelines+%7C+NLP+%7C+Recommenders;Dashboards+%7C+Model+Evaluation+%7C+CNNs" alt="Typing SVG" />
+</div>
 
-### **Computer Science @ University of Cincinnati | Aspiring ML Engineer & Data Scientist**
+## About Me
+I build analytics frameworks and ML systems that turn raw signals into decisions. My track record spans finance analytics, medical imaging, and recommender systems with measurable impact. My red‑pill philosophy: data quality and pipeline design set the ceiling for model performance.
 
-I am a technical problem-solver who enjoys building efficient, scalable AI solutions. My specialty lies in **Data Engineering** and **Applied Machine Learning**, particularly in optimizing models to perform under strict resource constraints.
+## Experience & Projects
+| Project / Role | The Hard Challenge | Tech Stack |
+| --- | --- | --- |
+| Household Finance Wellness & Debt Optimization Lab | Built a finance analytics framework with scenario‑driven simulations for income shocks and debt payoff strategies. | Python, SQL |
+| Brain Tumor Detection using CNN | Achieved 96% accuracy on MRI classification with validated augmentation and reproducible preprocessing. | Python, PyTorch |
+| Body Weight Prediction using 2D Images | Integrated deep feature extraction with XGBoost for body‑weight prediction from images. | Python, XGBoost |
+| Andhra Pradesh State FiberNet Ltd (ML Intern) | Increased recommendation relevance and engagement by 15% with a behavior‑driven recommender system. | Python |
+| Data Preprocessing Optimization | Cut preprocessing time by 30% through dataset cleaning and structure redesign. | Python, Pandas |
 
----
+## Currently Exploring
+- Model monitoring and evaluation pipelines for real‑time systems.
+- Data quality testing and automated validation for ETL workflows.
+- Efficient feature stores for recommender systems.
 
-## 🚀 Featured Project: The 8GB Challenge
-**[Biometric Weight Estimation via Facial Adiposity](https://github.com/suryayalavarthi/biometric-weight-estimation)**
-* **The Problem:** Estimating body weight from 70,000+ images (7GB dataset) using only **8GB of RAM**.
-* **The Solution:** Engineered a streaming extraction pipeline that achieved an **813:1 data compression ratio**.
-* **The Result:** Surpassed the published research baseline by **3.04%** (13.09kg MAE) and deployed a real-time Streamlit dashboard.
-* **Tech Stack:** `Python`, `XGBoost`, `SHAP`, `OpenCV`, `Streamlit`.
+## Tech Stack
+Languages  
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+Frameworks & Libraries  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logoColor=white)
 
----
+Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ Technical Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python (Expert), SQL, Java, C++, JavaScript |
-| **AI / Machine Learning** | XGBoost, TensorFlow, PyTorch, Scikit-Learn, MediaPipe |
-| **Explainable AI (XAI)** | SHAP (SHapley Additive exPlanations) |
-| **Cloud & DevOps** | Google Cloud (GCP), Microsoft Azure (AZ-900), Docker, Git |
-| **Data Visualization** | Streamlit, Matplotlib, Seaborn, Tableau |
-
----
-
-## 🎓 Education & Certifications
-* **B.S. in Computer Science** | University of Cincinnati (Expected April 2026)
-* **TensorFlow Developer Certificate** | Google
-* **Microsoft Certified:** Azure Fundamentals (AZ-900)
-* **Oracle Cloud Infrastructure** Foundations Associate
-
----
-
-## 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&theme=radical" alt="Surya's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</p>
-
----
-
-## 🧪 Currently Exploring
-* **Edge AI:** Optimizing deep learning models for low-power IoT devices.
-* **Large Language Models:** Implementing local RAG (Retrieval-Augmented Generation) pipelines using Ollama.
-* **Quantitative Analysis:** Applying ML models to financial datasets and predictive analytics.
-
----
-
-## 📫 Let's Connect!
-I am actively seeking **Summer/Fall 2026 Internships** in Data Science and Machine Learning Engineering.
-
-* **LinkedIn:** [linkedin.com/in/surya-yalavarthi](https://www.linkedin.com/in/surya-yalavarthi)
-* **Email:** [Suryavardhan15@gmail.com](mailto:Suryavardhan15@gmail.com)
-* **Location:** Cincinnati, OH
-
----
+## Analytics
 <p align="center">
-  "Turning constraints into engineering advantages."
+  <img src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&theme=transparent" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&theme=transparent" alt="Top Languages" height="160" />
 </p>
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/surya-vardhan-yalavarthi/
+- Email: mailto:suryavardhan15@gmail.com
