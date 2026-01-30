@@ -72,15 +72,22 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub stats" />
+<picture>
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
+</picture>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top languages" />
+<picture>
+  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
+</picture>
 
 <br/>
 
 <img height="185" src="https://streak-stats.demolab.com?user=suryayalavarthi&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 
 </div>
+
 
 ---
 
@@ -115,22 +122,35 @@
 <div align="center">
 
 <a href="https://github.com/suryayalavarthi/household_finance_lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight" alt="household_finance_lab" />
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="household_finance_lab" />
+  </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/brain-tumor-detection-cnn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight" alt="brain-tumor-detection-cnn" />
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="brain-tumor-detection-cnn" />
+  </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/Bodyweight-Prediction-Using-2D-Images">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight" alt="Bodyweight-Prediction-Using-2D-Images" />
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Bodyweight-Prediction-Using-2D-Images" />
+  </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight" alt="Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard" />
+  <picture>
+    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard" />
+  </picture>
 </a>
 
 </div>
+
 
 ---
 
@@ -153,8 +173,9 @@
 <!-- Snake animation (requires a GitHub Action)
 1) Add workflow: https://github.com/Platane/snk
 2) Output to: output/snake.svg
+If the output file is missing, keep this hidden to avoid broken images.
 -->
-<img src="https://raw.githubusercontent.com/suryayalavarthi/suryayalavarthi/output/snake.svg" alt="snake animation" />
+<img src="https://komarev.com/ghpvc/?username=suryayalavarthi&style=flat&color=0ea5e9" alt="profile views" />
 
 <br/>
 <i>Built on signals: data quality, pipeline design, and measurable impact.</i>
