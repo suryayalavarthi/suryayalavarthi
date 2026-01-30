@@ -1,8 +1,3 @@
-<!--
-  Surya Vardhan Yalavarthi — GitHub Profile README
-  ✅ Repo name should be: github.com/suryayalavarthi/suryayalavarthi
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Surya%20Vardhan%20Yalavarthi&fontSize=40&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20ML%20%2F%20NLP%20%E2%80%A2%20Data%20Analysis&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
@@ -11,7 +6,6 @@
 
 <br/>
 
-<!-- Social / Contact -->
 <p>
   <a href="https://suryayalavarthi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -27,7 +21,6 @@
   </a>
 </p>
 
-<!-- Signal badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=suryayalavarthi&style=for-the-badge&color=0ea5e9" alt="profile views" />
   <img src="https://img.shields.io/github/followers/suryayalavarthi?style=for-the-badge&logo=github&label=Followers&color=1f2937" alt="followers" />
@@ -60,7 +53,6 @@
 
 <div align="center">
 
-<!-- Primary stack cloud -->
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,azure,docker,git,github,jupyter,linux,postgres,redis,js,html,css&perline=8" alt="skills" />
 
 
@@ -73,12 +65,12 @@
 <div align="center">
 
 <picture>
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
 </picture>
 
@@ -123,28 +115,28 @@
 
 <a href="https://github.com/suryayalavarthi/household_finance_lab">
   <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight&cache_seconds=86400" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=household_finance_lab&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="household_finance_lab" />
   </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/brain-tumor-detection-cnn">
   <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight&cache_seconds=86400" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=brain-tumor-detection-cnn&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="brain-tumor-detection-cnn" />
   </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/Bodyweight-Prediction-Using-2D-Images">
   <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight&cache_seconds=86400" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Bodyweight-Prediction-Using-2D-Images&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Bodyweight-Prediction-Using-2D-Images" />
   </picture>
 </a>
 
 <a href="https://github.com/suryayalavarthi/Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard">
   <picture>
-    <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Real-Time-Cardiac-Arrest-Risk-Prediction-and-Alert-Dashboard" />
   </picture>
 </a>
@@ -170,11 +162,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" alt="divider"/>
 
-<!-- Snake animation (requires a GitHub Action)
-1) Add workflow: https://github.com/Platane/snk
-2) Output to: output/snake.svg
-If the output file is missing, keep this hidden to avoid broken images.
--->
+<img src="https://raw.githubusercontent.com/suryayalavarthi/suryayalavarthi/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+
+<br/>
 <img src="https://komarev.com/ghpvc/?username=suryayalavarthi&style=flat&color=0ea5e9" alt="profile views" />
 
 <br/>
