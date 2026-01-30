@@ -1,17 +1,16 @@
 name: Generate Snake
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
-  
-  # Allows you to manually trigger it from the Actions tab
   workflow_dispatch:
-
-  # Also run every time you push to the main branch
   push:
     branches:
       - main
+
+# This block is the key to fixing the 403 / Permission Denied error
+permissions:
+  contents: write
 
 jobs:
   build:
