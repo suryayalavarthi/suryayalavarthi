@@ -13,6 +13,8 @@ I am a technical problem-solver who enjoys building efficient, scalable AI solut
 * **The Result:** Surpassed the published research baseline by **3.04%** (13.09kg MAE) and deployed a real-time Streamlit dashboard.
 * **Tech Stack:** `Python`, `XGBoost`, `SHAP`, `OpenCV`, `Streamlit`.
 
+
+
 ---
 
 ## 🛠️ Technical Toolkit
@@ -37,8 +39,8 @@ I am a technical problem-solver who enjoys building efficient, scalable AI solut
 
 ## 📈 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&theme=radical" alt="Surya's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&theme=radical" alt="Surya's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </p>
 
 ---
