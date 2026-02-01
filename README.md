@@ -60,7 +60,7 @@
 
 ---
 
-## 📈 GitHub Stats (The Game)
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 ---
 
-## 🏗️ Featured Projects (Make People Click)
+## 🏗️ Featured Projects
 
 <div align="center">
 
