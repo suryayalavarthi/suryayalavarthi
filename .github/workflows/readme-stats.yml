@@ -15,18 +15,33 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: Download stats images
+      - name: Download stats images (retry + safe replace)
         run: |
           mkdir -p assets
-          curl -L --fail \
-            "https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=21600" \
-            -o assets/github-stats.svg
-          curl -L --fail \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=21600" \
-            -o assets/top-langs.svg
-          curl -L --fail \
-            "https://streak-stats.demolab.com?user=suryayalavarthi&hide_border=true&theme=tokyonight" \
-            -o assets/streak-stats.svg
+
+          download() {
+            local url="$1"
+            local dest="$2"
+            local tmp="${dest}.tmp"
+            if curl -L --fail \
+              --retry 6 \
+              --retry-delay 5 \
+              --retry-all-errors \
+              -H "User-Agent: github-actions" \
+              "$url" -o "$tmp"; then
+              mv "$tmp" "$dest"
+            else
+              echo "WARN: Failed to download $url"
+              rm -f "$tmp"
+            fi
+          }
+
+          download "https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=21600" \
+            assets/github-stats.svg
+          download "https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=21600" \
+            assets/top-langs.svg
+          download "https://streak-stats.demolab.com?user=suryayalavarthi&hide_border=true&theme=tokyonight" \
+            assets/streak-stats.svg
 
       - name: Commit updated images
         uses: stefanzweifel/git-auto-commit-action@v5
