@@ -1,0 +1,34 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Download stats images
+        run: |
+          mkdir -p assets
+          curl -L --fail \
+            "https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=21600" \
+            -o assets/github-stats.svg
+          curl -L --fail \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=21600" \
+            -o assets/top-langs.svg
+          curl -L --fail \
+            "https://streak-stats.demolab.com?user=suryayalavarthi&hide_border=true&theme=tokyonight" \
+            -o assets/streak-stats.svg
+
+      - name: Commit updated images
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh README stats"

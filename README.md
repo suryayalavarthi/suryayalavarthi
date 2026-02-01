@@ -64,19 +64,13 @@
 
 <div align="center">
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suryayalavarthi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats" />
-</picture>
+<img height="170" src="assets/github-stats.svg" alt="GitHub stats" />
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryayalavarthi&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages" />
-</picture>
+<img height="170" src="assets/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img height="185" src="https://streak-stats.demolab.com?user=suryayalavarthi&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="185" src="assets/streak-stats.svg" alt="GitHub streak" />
 
 </div>
 
