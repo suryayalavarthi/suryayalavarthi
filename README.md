@@ -116,10 +116,10 @@
   </picture>
 </a>
 
-<a href="https://github.com/suryayalavarthi/Sentinel">
+<a href="https://github.com/suryayalavarthi/Sentinel-Real-Time-Financial-Fraud-Detection-Engine">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Sentinel&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Sentinel&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Sentinel" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Sentinel-Real-Time-Financial-Fraud-Detection-Engine&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryayalavarthi&repo=Sentinel-Real-Time-Financial-Fraud-Detection-Engine&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Sentinel-Real-Time-Financial-Fraud-Detection-Engine" />
   </picture>
 </a>
 
