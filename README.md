@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <a href="https://suryayalavarthi.github.io" target="_blank">
+  <a href="https://yalavarthi-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/surya-vardhan-yalavarthi/" target="_blank">
@@ -141,7 +141,7 @@
 
 <b>Best fits:</b> Agentic AI • MLOps • Data Science • RWE Generation<br/>
 <b>I bring:</b> clean APIs • reproducible experiments • production mindset<br/>
-<b>Reach me:</b> <a href="mailto:suryavardhan15@gmail.com">suryavardhan15@gmail.com</a> • <a href="https://www.linkedin.com/in/surya-vardhan-yalavarthi/">LinkedIn</a> • <a href="https://suryayalavarthi.github.io">Portfolio</a>
+<b>Reach me:</b> <a href="mailto:suryavardhan15@gmail.com">suryavardhan15@gmail.com</a> • <a href="https://www.linkedin.com/in/surya-vardhan-yalavarthi/">LinkedIn</a> • <a href="https://yalavarthi-portfolio.vercel.app/">Portfolio</a>
 
 </div>
 
